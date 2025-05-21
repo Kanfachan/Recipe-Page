@@ -30,7 +30,7 @@ Greetings!
    ```
 2. Navigate into the project directory:
    ```bash
-   cd Recipe Page
+   cd Recipe-Page
    ```
 
 ## Application Screenshots
@@ -41,11 +41,11 @@ Greetings!
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://kanfachan.github.io/Recipe-Page/
 
 ## GitHub Repository Location (HTTPS)
 
-
+https://github.com/Kanfachan/Recipe-Page
 
 ## Credits
 
